@@ -49,6 +49,4 @@ To run the model training and music generation, execute the following Python scr
 3. `final_melodygenerator.py` - For generating music based on trained models.
 4. `Myapp.py` - To launch the web application interface using Streamlit.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
